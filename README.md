@@ -1,9 +1,9 @@
 ## Template
-Para desarollar el template
+To run this project
 
 ```cd template```
-```bower install```
-```npm install```
+``` && bower install```
+```&& npm install```
 
 
 ### Patterns
