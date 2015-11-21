@@ -5,12 +5,27 @@ To run this project
 ``` && bower install```
 ```&& npm install```
 
+#### Prerequisites
+```
+nodejs
+ruby
+```
+
+In this corner Ruby with: sass > 3.1
+```
+$ gem install sass
+```
+
+And in this corner JS with: gulp
+```
+$ npm install -g gulp
+```
 
 ### Patterns
 - ``app`` Folder with main code.
 - ``app/sass`` Folder with main style.
 - ``app/main.scss`` main style file.
-- ``app/views`` Folder with main views ( ususally for jade ).
+- ``app/views`` Folder with main views ( usually for jade ).
 
 -----------------------
 
