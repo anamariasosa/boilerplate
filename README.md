@@ -18,7 +18,7 @@ $ gem install sass
 
 And in this corner JS with: gulp
 ```
-$ npm install -g gulp
+$ sudo npm install -g gulp
 ```
 
 ### Patterns
