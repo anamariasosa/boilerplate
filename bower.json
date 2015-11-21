@@ -1,0 +1,22 @@
+{
+  "name": "example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "anamariasosam <anamariasosam@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/anamariasosa/template",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dist/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "jQuery#~2.1.4"
+  }
+}
